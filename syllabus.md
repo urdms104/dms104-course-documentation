@@ -1,8 +1,10 @@
-# Course Syllabus: DMS 104 - Design in the Digital Age
+# Course Syllabus:<br>DMS 104 - Design in the Digital Age
 
-[TO BE UPDATED FOR THE SPRING 2021 SEMESTER]
+Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as **a design process**, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. 
 
-Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as a design process, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
+Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
+
+*The course will be 100% online with asynchronous parts (lectures), and real-time meetings that will be recorded for viewing asynchronously.*
 
 - CRN: **22139**
 - Course: **DMS 104**
@@ -108,7 +110,7 @@ The grade for assignments not turned-in on time with no prior arrangement for an
 
 ## Academic Honesty
 
-Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person's work as one's own, or the attempt "to blur the line between one's own ideas or words and those borrowed from another source." ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/node/9)). In cases where plagiarism is evident, the University's rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty. For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
+Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person's work as one's own, or the attempt "to blur the line between one's own ideas or words and those borrowed from another source." ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). In cases where plagiarism is evident, the University's rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty. For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
 
 ## Academic Assistance and Accommodations
 

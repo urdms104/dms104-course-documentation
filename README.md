@@ -1,4 +1,3 @@
-# DMS 104 Course Documentation
 Design in the Digital Age
 
 - [Syllabus](syllabus.md)
@@ -6,7 +5,8 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
-## DOW, mmmm d, yyyy
+## Tuesday, February 2, 2021
 
 - Lecture link
 - Assignment link
+
