@@ -1,79 +1,41 @@
 # Course Syllabus:<br>DMS 104 - Design in the Digital Age
 
-Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as **a design process**, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. 
+Designing digital artifacts requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as **a design process**, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. 
 
-Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
+Mastery of this process prepares DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
 
-*The course will be 100% online with asynchronous parts (lectures), and real-time meetings that will be recorded for viewing asynchronously.*
+- Section: **DMS 104-1**
 
-- CRN: **22139**
-- Course: **DMS 104**
+- Title: **Design in the Digital Age**
+
 - Credits: **4.0**
-- Lecture Schedule: **Tuesdays and Thursdays, 12:30 to 1:45 PM**
-- Building: **Rettner Hall**
-- Room: **307**
+
+- Schedule: **Tuesdays and Thursdays at 12:30 PM EST** with support for **real-time** (synchronous) and **delayed** (asynchronous) participation (details in the [*Participation*](#participation) section, below)
+
+
+## Course Information and Announcements
+
+- All **course documentation** and **assignments** for DMS 104 is published here: **[docs.dms104.org](http://docs.dms104.org/)**, not in Blackboard
+- All **announcements** for DMS 104 is distributed via "Slack" - an online communication and collaboration tool, not in Blackboard
+
+  - Students are required to **create a Slack account here**: [ join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup) and then monitor the DMS 104 Slack Workspace here: **[dms104.slack.com](https://dms104.slack.com/)** throughout the semester.
+    - When registering for an account in Slack, students must use their **rochester.edu** email
+    - Suggestion: after students setup their Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
+- **Blackboard** is used by students to turn-in assignments and monitor their grade progress only throughout the semester
 
 ## Instructor Information
-- Instructor: **Professor Kostin**
-- E-mail: **<robert.kostin@rochester.edu>** (for faster reply, please use [Slack](https://csc170.slack.com/) to contact the professor)
-- Office: **Wegmans Hall, Room 2105** (<s>for student meetings and office hours; otherwise:</s> Morey Hall, room 206a for deliveries and official business)
 
-### Office Hours
+![professor-kostin](media/professor-kostin.jpg)
 
-- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms371.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor (and other students, optionally) will answer questions as quickly as possible
-- <s>Regular Office Hours: for non-technical help, the professor will be in his office in Wegmans Hall, room 2015:</s>
-  - <s>Mondays, 2:00 - 3:00 PM</s>
-  - <s>Wednesdays, 11:00 AM - 12:00 PM</s>
-  - **NEW: virtual office hours only**
-
-## Communication
-
-The professor will use **Slack** to make course‑related announcements and to distribute assignments. Students are required to monitor Slack for announcements daily.
-
-Students may also use Slack to ask questions and get help from the TAs and professor.
-
-- Sign-up for access to the DMS 104 Slack Workspace here:  [join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup)
-  - Students must use their **rochester.edu** email when signing-up for access
-- After the student has created their account, they can access the  DMS 104 Slack Workspace here: [dms104.slack.com](https://dms104.slack.com)
-
-  - Consider bookmarking that address
-- For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
-  - Using your PC, Mac, iPhone or Android device, go to this address to download the native application for whichever platform you're using: https://slack.com/downloads
-  - Consider turning-on Slack notifications in the smartphone app; they can be customized to keep from being overwhelmed with notifications
-
-## Texts and Materials
-
-*Required:* **Designing for the Digital Age**
-by Kim Goodwin & Alan Cooper
-ISBN: 9780470229101
-
-Get the text book from the UR Bookstore here: https://tinyurl.com/UR-W19-DMS-104-22463
-
-![Book: Designing for the Digital Age](media/figure1.png)
-
-©2009 by Kim Goodwin
-Wiley Publishing, Inc.
-ISBN:978-0-470-22910-1
-
-In addition to the book, more information required to pass the course comes from the lectures so attendance is mandatory.
-
-**Important:** Because attendence is not graded each student is on thier honor to go to all the lectures. If a student is unable to attend a lecture, it is the student's responsibility to get the information missed from another student. (The TA and the professor will not re-teach a lecture.)
-
-Students' inability to answer exam questions, complete lab assignments, or complete projects because of a missed lecture is not a valid excuse.
-
-### Presentation Software
-
-Students are required to create and present information in-class on a regular basis using slides and a projector.
+- Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
+- **Messaging/Office Hours**
+  - e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
+  - For faster reply, please use **Slack** to [send a DM to Professor Kostin](https://app.slack.com/client/T01HUPHAT6F/D01HUHFFC3U)
+  - For real-time discussions about non-technical matters (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
 ## Grading
 
-For each assignment, a grading rubric will be provided. Rubrics will inform students how assignments are evaluated. In the interest of fairness, extra credit and make-up work is not offered.
-
-### Participation
-
-The design of this course follows a "flipped" structure that requires students to learn basic concepts as assigned outside the classroom, and participate in workshops and group activities during the classroom sessions. Although attendance is not graded it is required for success in the course.
-
-Outside of the classroom sessions, students need to: read/study assigned sections of the book; coordinate with other students to work on assignments; and be ever vigilant looking for and responding to announcements from the professor.
+A grading rubric is provided for each assignment. Rubrics inform students how assignments are evaluated. In the interest of fairness, extra credit and make-up work is not offered.
 
 ### Grading Schema
 
@@ -92,25 +54,62 @@ Outside of the classroom sessions, students need to: read/study assigned section
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
+
+
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | <s>20%</s> **25%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
-| **Project** Students will design an interactive digital product in four parts over the course of the semester<br><br>Project 1 - Marketing Requirements Document<br/>Project 2 - User and Domain Analysis<br/>Project 3 - Design Vision<br/>Project 4 - Form & Behavior Specification (Detailed Design) | <s>50%</s> **55%** The four parts of the design process will require students to work in  teams to deliver each project <br/><s>5%</s> **6%**<br><s>20%</s> **22%**<br/><s>12% </s> **13%**<br/><s>13%</s> **14%** |
-| **Exams**<br/>Midterm<br/><s>Final</s>                       | <s>30%</s> **20%**<br/><s>15%</s> 20%<br/><s>15%</s>         |
+| **Participation and Checkpoint Deliverables**  All along the process of design there are opportunities for students to submit "checkpoint deliverables" and to participate in workshop activities that keep the design teams on track for successful project delivery | **35%** There are multiple opportunities for students working in teams and as individuals to get credit for their ongoing work in support of the projects |
+| **Projects** Students design an interactive digital artifact in four parts over the course of the semester<br><br>Project 1 - Marketing Requirements Document<br/>Project 2 - User and Domain Analysis<br/>Project 3 - Design Vision<br/>Project 4 - Form & Behavior Specification (and Detailed Design) | **65%** The four parts of the design process require students to work in  teams to deliver each project <br/>**10%**<br>**25%**<br/>**15%**<br/>**15%** |
+
+*Note: there are no exams in DMS 104; the results of the projects are the primary assessment tool to determine the student's proficiency with the course material*
+
+### Participation
+
+The design of this course follows a "flipped" structure that requires students to learn basic concepts as assigned *outside the classroom*, and participate in workshops and group activities during the classroom sessions. Attendance is counted as "participation" and is required for success in the course.
+
+Outside of the classroom sessions, students need to: read/study assigned sections of the book; coordinate with other students to work on assignments; and be ever vigilant looking for and responding to announcements from the professor.
+
+- As scheduled, students are required to watch pre-recorded lectures ([via Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22cceb7b63-7c08-498e-885a-ac770014a7bd%22)) and to participate in real-time discussions (via Zoom)
+
+- Pre-recorded lectures must be watched by students within 24 hours of publication
+
+- Real-time discussions are conducted via Zoom and are recorded; if a student is unable to attend a discussion in real-time they must watch the recorded discussion (in Panopto) within 24 hours of publication
+
+  *Students who neglect to watch the lecture videos on-time and/or neglect to participate in discussions or watched recorded discussions on-time, will loose points due to lack of participation, and they will be denied help when asked, and will receive neither flexibility with due dates nor a chance to get assignments re-graded*
+
+## Texts and Materials
+
+*Required:* **Designing for the Digital Age**
+by Kim Goodwin & Alan Cooper
+ISBN: 9780470229101
+
+Get [the text book from the UR Bookstore here](https://urochester.bncollege.com/shop/urochester/textbook/designing-for-digital-age?sectionId=100561412&displayStoreId=27055&sectionList=&booksAddedforSec=&fromTBList=true)
+
+![Book: Designing for the Digital Age](media/figure1.png)
+
+©2009 by Kim Goodwin
+Wiley Publishing, Inc.
+ISBN:978-0-470-22910-1
+
+## Assignments
+
+Students are required to read the book as scheduled and take good book notes (ungraded) and learn from from the book appropriately (obviously).
+
+In addition to reading the book as assigned, other activities ("checkpoint deliverables") are required as scheduled.  The purpose of these other activities are to promote participation and to ensure students are on-track to deliver the projects, which are critical to success in the course.
 
 ### Due Dates
 
-For each assignment and project, the **due date** is shown near the top of its instruction sheet. To avoid a zero grade, each must be turned-in via Blackboard on or before its due date.
+For each assignment, the **due date** is shown near the top of its instruction sheet. To avoid a zero grade, each must be turned-in via Blackboard on or before its due date.
 
 ### Late assignments
 
-Late assignments will not be graded unless a prior arrangement has been made with the TA or the professor for an **extension by one or two days**. Extensions will only be granted two or three times, maximum, per semester, at the discretion of the TA or professor.
+<u>Late assignments will not be graded</u> unless a prior arrangement has been made with the professor for an **extension by one or two days**. Extensions will only be granted two or three times, maximum, per semester, at the discretion of the professor.
 
 The grade for assignments not turned-in on time with no prior arrangement for an extension will be zero.
 
 ## Academic Honesty
 
-Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person's work as one's own, or the attempt "to blur the line between one's own ideas or words and those borrowed from another source." ([Council of Writing Program Administrators, January 2003,](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). In cases where plagiarism is evident, the University's rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty. For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
+Violation of the College's Honesty Policy is a serious violation of the trust upon which our academic community depends. A common form of academic dishonesty is plagiarism: the representation of another person's work as one's own, or the attempt "to blur the line between one's own ideas or words and those borrowed from another source." ([Council of Writing Program Administrators, January 2003, published online December 2019](http://wpacouncil.org/aws/CWPA/pt/sd/news_article/272555/_PARENT/layout_details/false)). In cases where plagiarism is evident, the University's rules governing academic dishonesty will be followed. As required by College policy, all instances of plagiarism are reported to the College Board of Academic Honesty. For the complete College honesty policy, see: [www.rochester.edu/college/honesty](http://www.rochester.edu/college/honesty)
 
 ## Academic Assistance and Accommodations
 
