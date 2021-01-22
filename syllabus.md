@@ -20,7 +20,7 @@ Mastery of this process prepares DMS students to undertake their senior capstone
 
   - Students are required to **create a Slack account here**: [ join.slack.com/t/dms104/signup](https://join.slack.com/t/dms104/signup) and then monitor the DMS 104 Slack Workspace here: **[dms104.slack.com](https://dms104.slack.com/)** throughout the semester.
     - When registering for an account in Slack, students must use their **rochester.edu** email
-    - Suggestion: after students setup their Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
+    - Suggestion: after students setup their Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads) *...also visit this URL using your phone to install the app so you get announcements in real-time*
 - **Blackboard** is used by students to turn-in assignments and monitor their grade progress only throughout the semester
 
 ## Instructor Information
