@@ -4,7 +4,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 | Class | Date                        | Lecture/Workshop                                         | Assignment                                                   |
 | ----- | --------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 0     | Before first class          | Introduction to Goal-Directed Design                     | &bull; In the book, read the **Forward** (xxiii-xxv) and **Introduction** (xxvii-xxix)<br>&bull; Write **your introduction** in [Slack, #chatter](https://app.slack.com/client/T01HUPHAT6F/C01J0N9D7M2) |
+| 0     | Before first class          | Introduction to Goal-Directed Design                     | &bull; In the book, read the **Forward** (xxiii-xxv) and **Introduction** (xxvii-xxix)<br>&bull; Write **your introduction** in [Slack, #chatter](https://app.slack.com/client/T01HUPHAT6F/C01J0N9D7M2)<br>&bull; Take the [short **Google Poll**](https://forms.gle/5Q5gXhfh8Ez3vxNg7) |
 | 1     | Tuesday, February 2, 2021   | Introduction to DMS 104                                  | &bull; Watch [**Designing Better Decisions** (Kim Goodwin, Vimeo 43 min)](https://vimeo.com/430569039)<br>&bull; Read **Chapter 1: Goal-Directed Product and Service Design** (p3-13)<br>&bull; Read **Chapter 2: Assembling the Team** (p15-32) |
 | 2     | Thursday, February 4, 2021  | Team "Storming"                                          | Assignment: Team Role Presentation<br>Homework: Team Forming & Storming |
 | 3     | Tuesday, February 9, 2021   | Team Role Presentations                                  | Watch recorded team role presentations (if any)              |
