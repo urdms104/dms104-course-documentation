@@ -28,10 +28,6 @@ Definition of the roles & responsibilities, including the *design team*:
 - Industrial Designer (ID)
 - Team Lead
 
-Assignment: read all of Chapter 2 (16 pages); focus on the roles & responsibilities of the Design Team
-
-Each student chooses their own *initial* design team role; each student prepares a two-minute presentation
-
 ###  Chapter 3: Project Planning
 
 Definition of the Marketing Requirement Document (MRD)
@@ -42,10 +38,6 @@ Definition of the Marketing Requirement Document (MRD)
   - What is the time horizon for the design project; when does the design need to be done, or is expected to be done (not counting development nor production time); will this take weeks, months, or years?
   - Are there already specific ideas; is there something(s) that resembles what will be designed?
   - What is the willingness to invest; is this a 'bet the company' project or an experiment to test the market
-
-
-- Assignment: read Chapter 3 (14 pages); learn about the MRD
-- Project 1: Marketing Requirements Document (MRD)
 
 ## Research
 

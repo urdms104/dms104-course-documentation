@@ -54,7 +54,7 @@ A grading rubric is provided for each assignment. Rubrics inform students how as
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-
+### Grade Distribution
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -69,13 +69,10 @@ The design of this course follows a "flipped" structure that requires students t
 
 Outside of the classroom sessions, students need to: read/study assigned sections of the book; coordinate with other students to work on assignments; and be ever vigilant looking for and responding to announcements from the professor.
 
-- As scheduled, students are required to watch pre-recorded lectures ([via Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22cceb7b63-7c08-498e-885a-ac770014a7bd%22)) and to participate in real-time discussions (via Zoom)
-
-- Pre-recorded lectures must be watched by students within 24 hours of publication
-
-- Real-time discussions are conducted via Zoom and are recorded; if a student is unable to attend a discussion in real-time they must watch the recorded discussion (in Panopto) within 24 hours of publication
-
-  *Students who neglect to watch the lecture videos on-time and/or neglect to participate in discussions or watched recorded discussions on-time, will loose points due to lack of participation, and they will be denied help when asked, and will receive neither flexibility with due dates nor a chance to get assignments re-graded*
+- As scheduled, students are required to watch **pre-recorded lectures** ([via Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22cceb7b63-7c08-498e-885a-ac770014a7bd%22)), participate in **real-time discussions** (via Zoom), and make **presentations** to the class (either Zoom or Panopto)
+- Students unable to participate in real-time discussions must watch recorded lectures, discussions, and presentations within 24 hours of publication
+- Students unable to make real-time presentations during the real-time class workshops may pre-record them and upload them to Panopto at the scheduled time
+- *Students who neglect to watch the lecture videos on-time and/or neglect to participate in real-time or watched recordings of them on-time, will lose points due to lack of participation, and they will be denied help when asked, and will receive neither flexibility with due dates nor a chance to get assignments re-graded*
 
 ## Texts and Materials
 
