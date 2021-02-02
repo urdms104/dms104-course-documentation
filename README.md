@@ -8,17 +8,16 @@ Design in the Digital Age
 ## Tuesday, February 2, 2021
 
 - **Introduction to Goal-Directed Design**
-  - Live discussion [(Zoom at 12:30 PM)](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)
+  - Recorded discussion ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fd619a70-0dc1-4583-a0df-acc30141b335))
+    - If you were unable to attend the live discussion, you can watch the recorded discussion and write-up a "reflection paper" (graded) instead (see Blackboard for details; due Thursday, February 4)
   - Today
     - Review and discuss the course; set expectations
-    - Discuss and answer some questions about the Forward and Introduction in the book
-  - If you're not in our time zone (EST, GMT-5) or you're having connection problems, you can watch the recorded discussion later (in Panopto ...link will be inserted here, later) and write-up a "reflection paper" (graded) instead
-
-## Before the First Class on February 2
-
-- **ASSIGNMENT 0** (pre-semester):<br>
-  So we can get a quick start to DMS 104, you need to do the following *before* our first meeting on February 2.
-  - In the book, **Designing for the Digital Age**, read the **Forward** (xxiii-xxv) and **Introduction** (xxvii-xxix)
-  - Write **your introduction** [in Slack, in the #chatter channel](https://app.slack.com/client/T01HUPHAT6F/C01J0N9D7M2)
-  - Take the [short **Google Poll**](https://forms.gle/5Q5gXhfh8Ez3vxNg7) 
+    - <s>Discuss and answer some questions about the Forward and Introduction in the book</s>
+- **Assignment for next time:**
+  - Watch [**Designing Better Decisions** (Kim Goodwin, Vimeo 43 min)](https://vimeo.com/430569039)
+  - Read **Chapter 1: Goal-Directed Product and Service Design** (p3-13)
+  - Read **Chapter 2: Assembling the Team** (p15-32)
+      - Focus on p15-25; that's us (the designers)
+      - Note: we will combine the two interactive designers into one (teams of four)
+      - THINK about what team role you would like to be (not guaranteed)
 
