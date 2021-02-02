@@ -13,7 +13,7 @@ Design in the Digital Age
   - Today
     - Review and discuss the course; set expectations
     - <s>Discuss and answer some questions about the Forward and Introduction in the book</s>
-- **Assignment for next time:**
+- **Assignment for Next Time**
   - Watch [**Designing Better Decisions** (Kim Goodwin, Vimeo 43 min)](https://vimeo.com/430569039)
   - Read **Chapter 1: Goal-Directed Product and Service Design** (p3-13)
   - Read **Chapter 2: Assembling the Team** (p15-32)
