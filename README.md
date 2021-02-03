@@ -20,4 +20,6 @@ Design in the Digital Age
       - Focus on p15-25; that's us (the designers)
       - Note: we will combine the two interactive designers into one (teams of four)
       - THINK about what team role you would like to be (not guaranteed)
+  - Find out (if you don't already know) your **Myers-Briggs Type Indicator** (MBTI)
+      - Google "Myers-Briggs quiz online"
 
