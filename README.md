@@ -12,7 +12,6 @@ Design in the Digital Age
   - [How to use personality tests to create balanced teams (web article)](https://www.resourceumc.org/en/content/how-to-use-personality-tests-to-create-balanced-teams)
   - Remember: if you are unable to attend the live discussion, you can watch the recorded discussion and write-up a "reflection paper" (graded) instead (see instructions in Blackboard)
 - Assignments for Next Time
-  - Coming soon
   - Complete your **Acceptance of Academic Honesty Policy** in Blackboard
     - Go to our DMS 104 Blackboard section and in the "Course Home Page" scroll down 'til you see it
     - Click the link to **acknowledge your acceptance by completing this activity**
