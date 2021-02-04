@@ -5,6 +5,12 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
+## Thursday, February 4, 2021
+
+- Team "Forming" ([live discussion in Zoom](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
+- Assignments for Next Time
+  - Coming soon
+
 ## Tuesday, February 2, 2021
 
 - **Introduction to Goal-Directed Design**
