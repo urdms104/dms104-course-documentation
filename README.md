@@ -13,11 +13,9 @@ Design in the Digital Age
   - Remember: if you are unable to attend the live discussion, you can watch the recorded discussion and write-up a "reflection paper" (graded) instead (see instructions in Blackboard)
 - Assignments for Next Time
   - Complete your **Acceptance of Academic Honesty Policy** in Blackboard
-    - Go to our DMS 104 Blackboard section and in the "Course Home Page" scroll down 'til you see it
-    - Click the link to **acknowledge your acceptance by completing this activity**
+    - Go to our DMS 104 Blackboard section and in the "Assignments/Projects Turn-In" area find the **REQUIRED: Acceptance of Academic Honesty Policy**
     - When you get to "QUESTION 1" fill-in the two blanks with the correct words and then the **Save and Submit** button
   - In the book READ **Chapter 3: Project Planning** with particular attention to the **Marketing Requirements Document (MRD)** (pages 35-39)
-  - Keep an eye on the #announcements channel in Slack for the daily steps in the Team Forming process
-  - Think about a design project idea that you might want to propose next Tuesday
-    - Criteria for what constitutes a viable design project idea, coming soon! (later today on Thursday, February 4)
+  - Keep an eye on the **#announcements channel in Slack** for the daily steps in the Team Forming process
+  - Working with your team (see [our City-Team List](https://docs.google.com/spreadsheets/d/1GxZ4u8RjvG9D-S86QVpSdJM24KPr47ftF3mN67NC37I/edit#gid=0)), prepare a presentation for [Checkpoint 1: Project Ideation](checkpoint01-project-ideation/instructions.md)
 
