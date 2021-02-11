@@ -18,7 +18,7 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
 - [New York (PPTX)](files/ideation-new-york.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=2014.3989984))
   - **Digital VR Treadmill** - Treadmill with VR headset
-    - APPROVED - only if you include the VR equipment
+    - APPROVED - as-is! (but you must include the VR equipment)
     - Concern: the VR equipment could be very dangerous if not designed properly - safety features will be required; also regarding the other features, be aware of similar products already in existence
 - [Toronto (PPTX)](files/ideation-toronto.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=1177.482))
   - **Fight till the end** - software-based comic book that tells a sport-related story
