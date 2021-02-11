@@ -11,8 +11,3 @@ Design in the Digital Age
   - In a breakout room, choose and/or clarify each team's design project
   - In the main room (with the rest of the class) each team presents their decision and answers questions 
 
-## Tuesday, February 9, 2021
-
-- Team "Storming" - Ideation Presentations ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769))
-  - Presentations ([here in the Course Documentation Website](files.md))
-
