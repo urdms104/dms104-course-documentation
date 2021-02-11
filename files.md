@@ -14,11 +14,11 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
     - Note: you have some flexibility regarding the technology but don't get too "magical"
   - **i'mClean** - Shower caddy with features for college students
-    - APPROVED - so long as you come-up with a differentiator
+    - APPROVED - only if you come-up with a differentiator
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
 - [New York (PPTX)](files/ideation-new-york.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=2014.3989984))
   - **Digital VR Treadmill** - Treadmill with VR headset
-    - APPROVED - so long as you include the VR equipment
+    - APPROVED - only if you include the VR equipment
     - Concern: the VR equipment could be very dangerous if not designed properly - safety features will be required; also regarding the other features, be aware of similar products already in existence
 - [Toronto (PPTX)](files/ideation-toronto.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=1177.482))
   - **Fight till the end** - software-based comic book that tells a sport-related story
@@ -33,7 +33,7 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
   - **Digital earwax terminator** - device that removes earwax
     - NOT APPROVED - not enough interactivity; just turns on/off and then the user applies it; does not fulfill the DMS 104 requirements
   - **Digital makeup mirror** - AR mirror for applying makeup
-    - APPROVED - so long as you come-up with differentiators (this product already exists)
+    - APPROVED - only if you come-up with differentiators (this product already exists)
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
   - **Digital closet** - AR mirror to help getting dressed
     - NOTE: this idea is identical to Team Shenzhen's "!Naked" (okay to proceed; you will be in competition with the other team to see who creates the better design!)
@@ -42,10 +42,10 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
     - Note: you have some flexibility regarding the technology but don't get too "magical"
 - [Tokyo (PPTX)](files/ideation-tokyo.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=4206.830001599999))
   - **Wireless Table charger** - large touch-sensitive, table mounted device with interactivity
-    - APPROVED - so long as you come-up with more features to have it interact with objects on its surface (not just charging devices)
+    - APPROVED - only if you come-up with more features to have it interact with objects on its surface (not just charging devices)
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
   - **Digital Plant Care Taker** - device inserted into the soil next to potted plants that helps take care of the plant
-    - APPROVED - so long as you come-up with differentiators (this product already exists)
+    - APPROVED - only if you come-up with differentiators (this product already exists)
     - Concern: the exact feature set will be a challenge to get right; also be aware of similar existing products
     - Suggestion: big opportunity by combining features of existing products into one
   - **AI Kitchen Helper- DigiChef?** - counter-top device to help with cooking/preparing meals
@@ -54,7 +54,7 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
     - Suggestion: big opportunity by combining features of existing products into one
 - [Oslo (PPTX)](files/ideation-oslo.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=3308.4159999999997))
   - **Smart Alarm Clock** - device: alarm clock with extra features to assist user waking up
-    - APPROVED - so long as you define the set of challenges
+    - APPROVED - only if you define the set of challenges
     - Concern: finding users who accept the premise might make it difficult to gather data and run focus groups 
   - **“Moody” Face Mask** - face-mask device with extra features for novelty and to facilitate communication
     - APPROVED - as-is!
