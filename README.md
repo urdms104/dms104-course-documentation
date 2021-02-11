@@ -5,7 +5,14 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
+## Thursday, February 11, 2021
+
+- Idea Development ([Live discussions in Zoom at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
+  - In a breakout room, choose and/or clarify each team's design project
+  - In the main room (with the rest of the class) each team presents their decision and answers questions 
+
 ## Tuesday, February 9, 2021
 
-- Team "Storming" - Ideation Presentations ([Live presentations in Zoom at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
-  - Presentation Files ([here in the Course Documentation Website](files.md))
+- Team "Storming" - Ideation Presentations ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769))
+  - Presentations ([here in the Course Documentation Website](files.md))
+
