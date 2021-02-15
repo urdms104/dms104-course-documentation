@@ -23,8 +23,8 @@ The following items are suggestions, but really you can proceed however you want
 
 - The **Team Lead** should create a shared document (Google Docs seems to work very well for this purpose) and fill it out with the usual formal document parts and a basic outline.
 - Include the usual document parts like: a title with a date …stuff like that.  *Note: You will be graded on fundamental document formatting and presentation qualities, i.e. make it look nice and professional!*
-- Include a list everyone on the team and their role
-- The document should start with the working title of the project idea and a general description of what you believe the stakeholders have in mind.   Include embedded pictures and/or videos of anything *related* to your project idea. For instance, if you're going to design something that will have competition from related products, include pictures and descriptions of the competitive products and explain how your design will be different (better).
+- Include a list of everyone on the team and their role
+- The document should start with the working title of the project idea and a general description of what the inventor/entrepreneur had in mind.   Include embedded pictures and/or videos of anything *related* to your project idea. For instance, if you're going to design something that will have competition from related products, include pictures and descriptions of the competitive products and explain how your design will be different (better).
 
 - Then the rest of the document should follow the outline provided from the headings in the book, in the section: "Determining Your Project's Parameters."  Just write what you think the stakeholders need to hear.  DO NOT use marketing *fluff words*.  Be specific in terms of the design process. 
 - Suggestion for the **Team Lead**: set up the document and assign various parts to the team members.  In this case, it doesn't matter who does what.  You're all getting graded together as one.  
