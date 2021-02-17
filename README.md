@@ -15,7 +15,7 @@ Design in the Digital Age
 
 *For Thursday, February 18...*
 
-- [Checkpoint #2: MRD Progress](checkpoint02-mrd-progress/instructiond.md) (due: Thursday, February 18)
+- [Checkpoint #2: MRD Progress](checkpoint02-mrd-progress/instructions.md) (due: Thursday, February 18)
 
 *For Tuesday, February 23...*
 
