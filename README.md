@@ -7,17 +7,23 @@ Design in the Digital Age
 
 ## Tuesday, February 16, 2021
 
-- Live discussion: **Marketing Requirements Document** ([live discussion in Zoom at 12:30 PM](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
+- Live discussion: **Marketing Requirements Document** (Recorded in [Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bac9c95a-781c-4261-a623-acd1013662f3))
 
-  - Discuss: [good examples of Marketing Requirements Documents from previous DMS 104 semesters](files/mrd_previous-semesters/readme.md)
+  - Discussed: [good examples of Marketing Requirements Documents from previous DMS 104 semesters](files/mrd_previous-semesters/readme.md)
 
-- Also during the live discussion: Continuation of **Idea Feedback** from last Thursday<br>*Teams: be prepared to explain and discuss your decisions and generally, how to address the concerns noted in the feedback*
+  - Also during the live discussion: Continuation of **Idea Feedback** from last Thursday
 
-  - Toronto - **Smarter Sports** ([feedback](files/ideation-feedback_toronto.md))
-  - Tokyo - **DigiChef** ([feedback](files/ideation-feedback_tokyo.md))
-  - Oslo - **Moody Face Mask** ([feedback](files/ideation-feedback_oslo.md))
+*For Thursday, February 18...*
 
-  *Everyone else: be prepared to "shoot-down" the other teams' ideas - provide <u>negative</u> feedback!*
+- [Checkpoint #2: MRD Progress](checkpoint02-mrd-progress/instructiond.md) (due: Thursday, February 18)
 
-- Assigned: [Project 1: Marketing Requirements Document](project01-mrd/instructions.md) (due: Tuesday, February 23, 2021)
+*For Tuesday, February 23...*
+
+- [Project 1: Marketing Requirements Document](project01-mrd/instructions.md) (due: Tuesday, February 23)
+
+- Read the first 32 pages of the RESEARCH phase
+  - **Chapter 4: Research Fundamentals** 
+  - **Chapter 5: Understanding the Business**
+
+  ...refer to the [Book Overview](book-overview.md) for key topics from those chapters
 
