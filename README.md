@@ -7,9 +7,17 @@ Design in the Digital Age
 
 ## Thursday, February 18, 2021
 
-- Live discussion: **Checkpoint for Marketing Requirements Document** (Recorded in Panopto, coming soon)
-  - Purpose: to make sure everyone's on the right track for turning-in a perfect MRD on Tuesday
+- Live discussion: **Checkpoint for Marketing Requirements Document** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3))
   - Instructions: [Checkpoint #2: MRD Progress](checkpoint02-mrd-progress/instructions.md)
+
+| Time stamp | Team                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 0:01       | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=1.0899999999999999" target="_blank">Shenzhen</a> |
+| 10:46      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=646.12" target="_blank">New York</a> |
+| 24:10      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=1450.021" target="_blank">Toronto</a> |
+| 36:39      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=2198.642" target="_blank">Boston</a> |
+| 49:21      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=2960.8129999999996" target="_blank">Tokyo</a> |
+| 1:02:50    | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=3770.1639984" target="_blank">Oslo</a> |
 
 *Assignments for next time...*
 
