@@ -7,7 +7,7 @@ Design in the Digital Age
 
 ## Tuesday, February 23, 2021
 
-- Live discussion: **Research Overview** (Panopto link, coming soon) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
+- [Live discussion: **Research Overview** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c91e08e7-79cc-45e9-b903-acd8013b861e) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
 
   Related materials: 
 
