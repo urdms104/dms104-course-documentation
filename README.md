@@ -16,7 +16,7 @@ Design in the Digital Age
   - [Alan Cooper - "Users don't know" (YouTube)](https://youtu.be/sNWBnCazIcU)
 
 - Assignment: schedule and prepare for **Stakeholder Interview**
-    - **Team lead:** coordinate your team's availability and go to https://calendly.com/rkostin ...schedule a "Business Meeting"; when asked: "To what regard is this meeting?" say: "DMS 104 - City Team..."
+    - **Team lead:** coordinate your team's availability and go to [calendly.com/rkostin](https://calendly.com/rkostin) ...schedule a "Business Meeting"; when asked: "To what regard is this meeting?" say: "DMS 104 - City Team..."
 
     - Need after hours meeting - after 5:00 PM EST?  Send Professor Kostin a DM in Slack.
 
