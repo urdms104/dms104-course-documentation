@@ -7,7 +7,7 @@ Design in the Digital Age
 
 ## Tuesday, February 23, 2021
 
-- Live discussion: **Research Overview** ([Zoom meeting at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
+- Live discussion: **Research Overview** (Panopto link, coming soon) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
 
   Related materials: 
 
