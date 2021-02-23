@@ -27,11 +27,7 @@ Design in the Digital Age
     - How to conduct a Stakeholder meeting?
 
       - Read for detail in Chapter 5, especially the Stakeholder Interview part
-
-      - Need to prepare second-level questions
-
-        Need to take notes; whatever Stakeholder says becomes rule!
-
-      - Note: you will be thrown constraints and/or extra requirements during the Stakeholder meeting! 😲
-
-- Note, due today: [Project 1: Marketing Requirements Document](project01-mrd/instructions.md)
+- Need to prepare second-level questions
+      - Need to take notes; whatever Stakeholder says becomes rule!
+- Note: you will be thrown constraints and/or extra requirements during the Stakeholder meeting! 😲
+    
