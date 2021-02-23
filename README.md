@@ -5,29 +5,33 @@ Design in the Digital Age
 - [Book Overview](book-overview.md)
 - [City Team Presentations and Project Files](files.md)
 
-## Thursday, February 18, 2021
+## Tuesday, February 23, 2021
 
-- Live discussion: **Checkpoint for Marketing Requirements Document** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3))
-  - Instructions: [Checkpoint #2: MRD Progress](checkpoint02-mrd-progress/instructions.md)
+- Live discussion: **Research Overview** ([Zoom meeting at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
 
-| Time stamp | Team                                                         |
-| ---------- | ------------------------------------------------------------ |
-| 0:01       | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=1.0899999999999999" target="_blank">Shenzhen</a> |
-| 10:46      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=646.12" target="_blank">New York</a> |
-| 24:10      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=1450.021" target="_blank">Toronto</a> |
-| 36:39      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=2198.642" target="_blank">Boston</a> |
-| 49:21      | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=2960.8129999999996" target="_blank">Tokyo</a> |
-| 1:02:50    | <a href="https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a86e731c-7fae-45f4-a05d-acd301478ae3&amp;start=3770.1639984" target="_blank">Oslo</a> |
+  Related materials: 
 
-*Assignments for next time...*
+  - [Ember Mug (product website)](https://ember.com/products/ember-mug-2)
+  - [Steve Jobs - introduction of the first iPhone (YouTube)](https://youtu.be/Q3W58S29eSE?t=132)
+  - [Alan Cooper - "Users don't know" (YouTube)](https://youtu.be/sNWBnCazIcU)
 
-- [Project 1: Marketing Requirements Document](project01-mrd/instructions.md) (due: Tuesday, February 23)
+- Assignment: schedule and prepare for **Stakeholder Interview**
+    - **Team lead:** coordinate your team's availability and go to https://calendly.com/rkostin ...schedule a "Business Meeting"; when asked: "To what regard is this meeting?" say: "DMS 104 - City Team..."
 
-- Read the first 32 pages of the RESEARCH phase
+    - Need after hours meeting - after 5:00 PM EST?  Send Professor Kostin a DM in Slack.
 
-  - **Chapter 4: Research Fundamentals** 
+    - ALL team members must attend for participation grade!
 
-  - **Chapter 5: Understanding the Business**
+    - Must be completed before Tuesday next week (March 2)
 
-    ...refer to the [Book Overview](book-overview.md) for key topics from those chapters
+    - How to conduct a Stakeholder meeting?
 
+      - Read for detail in Chapter 5, especially the Stakeholder Interview part
+
+      - Need to prepare second-level questions
+
+        Need to take notes; whatever Stakeholder says becomes rule!
+
+      - Note: you will be thrown constraints and/or extra requirements during the Stakeholder meeting! 😲
+
+- Note, due today: [Project 1: Marketing Requirements Document](project01-mrd/instructions.md)
