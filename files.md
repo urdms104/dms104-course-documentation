@@ -14,9 +14,15 @@ Inventions - ideas for potential design work, presented on Tuesday, February 9, 
 - [Tokyo (PPTX)](files/ideation-tokyo.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=4206.830001599999)) ([feedback](files/ideation-feedback_tokyo.md))
 - [Oslo (PPTX)](files/ideation-oslo.pptx) ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9a1b029-266d-43aa-abfd-acca013cd769&start=3308.4159999999997)) ([feedback](files/ideation-feedback_oslo.md))
 
-## Marketing Requirements Document (MRD)
+## Marketing Requirements Documents
 
 Preview before discussion on Tuesday, February 16, 2021: [Sample MRDs from previous semesters of DMS 104](files/mrd_previous-semesters/readme.md)
 
-*Coming soon: each team's MRDs (Project 1) will be linked here*
+Project 1: MRDs from each City Team...
 
+- [Shenzhen (PDF)](files/mrd_shenzhen.pdf) **!Naked** (AR mirror to help getting dressed)
+- [New York (PDF)](files/mrd_new-york.pdf) **Digital VR Treadmill** (Treadmill with VR headset)
+- [Toronto (PDF)](files/mrd_toronto.pdf) **Smarter Sports** (Sports equipment with digital components)
+- [Boston (PDF)](files/mrd_boston.pdf) **Digital closet** (AR mirror to help getting dressed)
+- [Tokyo (PDF)](files/mrd_tokyo.pdf) **DigiChef** (Counter-top device to help with cooking/preparing meals)
+- [Oslo (PDF)](files/mrd_oslo.pdf) **Moody Face Mask** (Face-mask device with extra features for novelty and to facilitate communication)
