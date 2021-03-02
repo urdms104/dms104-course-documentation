@@ -8,7 +8,7 @@ Design in the Digital Age
 
 ## Tuesday, March 2, 2021
 
-- Live Discussion: **Research Planning** ([Zoom at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)) and ([PDF](09-research-planning/chapter6-summary.pdf))
+- Live Discussion: **Research Planning** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78fb8fed-e17e-4c84-a8b6-acdf01460a78)) and ([PDF](09-research-planning/chapter6-summary.pdf))
 
 - Assignment: **prepare for running a focus group**
 
