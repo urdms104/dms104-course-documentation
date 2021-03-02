@@ -6,30 +6,21 @@ Design in the Digital Age
 - [City Team Presentations and Project Files](files.md) &larr; updated Wed., Feb. 24, 2021
 - [Shared City Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1GxZ4u8RjvG9D-S86QVpSdJM24KPr47ftF3mN67NC37I/edit#gid=0)
 
-## Tuesday, February 23, 2021
+## Tuesday, March 2, 2021
 
-- [Live discussion: **Research Overview** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c91e08e7-79cc-45e9-b903-acd8013b861e) and ([PDF](07-research-overview/chapter4-and-5-summary.pdf))
+- Live Discussion: **Research Planning** ([Zoom at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)) and ([PDF](09-research-planning/chapter6-summary.pdf))
 
-  Related materials: 
+- Assignment: **prepare for running a focus group**
 
-  - [Ember Mug (product website)](https://ember.com/products/ember-mug-2)
-  - [Steve Jobs - introduction of the first iPhone (YouTube)](https://youtu.be/Q3W58S29eSE?t=132)
-  - [Alan Cooper - "Users don't know" (YouTube)](https://youtu.be/sNWBnCazIcU)
+  - Focus group prep discussion: Thursday, March 4
+  - Focus groups will run next week: Tuesday, March 9 and Thursday, March 11
 
-- Assignment: schedule and prepare for **Stakeholder Interview**
-    - **Team lead:** coordinate your team's availability and go to [calendly.com/rkostin](https://calendly.com/rkostin) ...schedule a "Business Meeting"; when asked: "To what regard is this meeting?" say: "DMS 104 - City Team..."
+  *Required Reading/Viewing*
 
-    - Need after hours meeting - after 5:00 PM EST?  Send Professor Kostin a DM in Slack.
-
-    - ALL team members must attend for participation grade!
-
-    - Must be completed before Tuesday next week (March 2)
-
-    - How to conduct a Stakeholder meeting?
-
-      - Read for detail in Chapter 5, especially the Stakeholder Interview part
-- Need to prepare second-level questions
-      - Need to take notes; whatever Stakeholder says becomes rule!
-- Note: you will be thrown constraints and/or extra requirements during the Stakeholder meeting! 😲
-  
+  - Read *Focus Group* topics in the book (refer to the index)
+  - Watch: [Focus Groups - TED-Ed (YouTube)](https://youtu.be/3TwgVQIZPsw)
+  - Watch: [Preparing for Focus Groups (YouTube)](https://youtu.be/VSwTvkTsOvI)
+  - Watch: [Online vs In-person Moderation (YouTube)](https://youtu.be/KlCDgVCQRNg)<br>Note: this is a pre-Covid video; also discusses *chat-based* focus groups
+  - Watch: [Moderating Focus Groups - Krueger (YouTube)](https://youtu.be/xjHZsEcSqwo)<br>Long video (30 mins); from a well-known expert
+  - Read: [Designing and Conducting Focus Group Interviews (Krueger, PDF)](09-research-planning/krueger-focus-group-interviews.pdf)
 
