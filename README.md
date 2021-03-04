@@ -8,6 +8,7 @@ Design in the Digital Age
 
 ## Thursday, March 4, 2021
 
-- Live Discussion: **Focus Group Prep** ([Zoom at 12:30 PM EST](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
+- Live Discussion: **Focus Group Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9116075-6122-4c1f-badb-ace1013817f5))
   - [Focus Group Scheduling (Google Sheet)](https://docs.google.com/spreadsheets/d/1k7ovrQDirpvvr-uz8SJiC-fl5UnOStTW8m0URXZCbJc/edit#gid=0)
   - Focus Group Planning Document - Instructions (coming soon)
+
