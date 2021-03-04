@@ -10,5 +10,5 @@ Design in the Digital Age
 
 - Live Discussion: **Focus Group Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9116075-6122-4c1f-badb-ace1013817f5))
   - [Focus Group Scheduling (Google Sheet)](https://docs.google.com/spreadsheets/d/1k7ovrQDirpvvr-uz8SJiC-fl5UnOStTW8m0URXZCbJc/edit#gid=0)
-  - Focus Group Planning Document - Instructions (coming soon)
+  - [Focus Group Planning Document - Instructions](checkpoint04-focus-group-planning/instructions) (due 24 hours before your team's focus group which must be conducted before Tuesday, March 16, 2021)
 
