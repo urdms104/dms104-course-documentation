@@ -8,6 +8,6 @@ Design in the Digital Age
 
 ## Tuesday, March 16, 2021
 
-- Live Discussion: **User Research Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9116075-6122-4c1f-badb-ace1013817f5)) and ([PDF](13-user-research-planning/chapter7-summary.pdf))
+- Live Discussion: **User Research Prep** ([live discussion in Zoom at 12:30 PM EDT](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)) and ([PDF](13-user-research-planning/chapter7-summary.pdf))
   - Workshop: each team present an **Interview Plan**
 
