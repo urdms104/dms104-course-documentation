@@ -6,9 +6,8 @@ Design in the Digital Age
 - [City Team Presentations and Project Files](files.md) &larr; updated Wed., Feb. 24, 2021
 - [Shared City Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1GxZ4u8RjvG9D-S86QVpSdJM24KPr47ftF3mN67NC37I/edit#gid=0)
 
-## Thursday, March 4, 2021
+## Tuesday, March 16, 2021
 
-- Live Discussion: **Focus Group Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9116075-6122-4c1f-badb-ace1013817f5))
-  - [Focus Group Scheduling (Google Sheet)](https://docs.google.com/spreadsheets/d/1k7ovrQDirpvvr-uz8SJiC-fl5UnOStTW8m0URXZCbJc/edit#gid=0)
-  - [Focus Group Planning Document - Instructions](checkpoint04-focus-group-planning/instructions) (due 24 hours before your team's focus group which must be conducted before Tuesday, March 16, 2021)
+- Live Discussion: **User Research Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9116075-6122-4c1f-badb-ace1013817f5)) and ([PDF](13-user-research-planning/chapter7-summary.pdf))
+  - Workshop: each team present an **Interview Plan**
 
