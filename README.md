@@ -9,5 +9,11 @@ Design in the Digital Age
 ## Tuesday, March 16, 2021
 
 - Live Discussion: **User Research Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6462567b-b131-480e-8364-aced012f6256)) and ([PDF](13-user-research-planning/chapter7-summary.pdf))
-  - Workshop: each team present an **Interview Plan**
+  - YouTube Videos (similar to your project ideas)
+    - [**Retail Clothing Scenario** (Shenzhen - !Naked and Boston - Digital Closet)](https://www.youtube.com/watch?v=Mr71jrkzWq8)
+    - [**Omni One VR Prototype** (New York - Digital VR Treadmill)](https://www.youtube.com/watch?v=aOYHg8qdxTE)
+    - [**Boston Dynamics "Do You Love Me?"** (Toronto - Smarter Training Robot)](https://www.youtube.com/watch?v=fn3KWM1kuAw)
+    - [**iPhone "Sauce" Commercial** (Tokyo - DigiChef)](https://www.youtube.com/watch?v=SCQpOaR3sVo)
+    - [**The interactive JabberMask** (Oslo - Moody Face Mask)](https://www.youtube.com/watch?v=ksNOHrTi5Lo)
+  - Individual User Interviews - Instructions (coming soon)
 
