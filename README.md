@@ -16,4 +16,6 @@ Design in the Digital Age
     - [**iPhone "Sauce" Commercial** (Tokyo - DigiChef)](https://www.youtube.com/watch?v=SCQpOaR3sVo)
     - [**The interactive JabberMask** (Oslo - Moody Face Mask)](https://www.youtube.com/watch?v=ksNOHrTi5Lo)
   - Individual User Interviews - Instructions (coming soon)
+  - Read **Chapter 9: Other Sources of Information and Inspiration** (p183-199, a quick read)
+    - Focus on *Supplemental Research Methods* (there are 9 methods, incl. Focus Groups)
 
