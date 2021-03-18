@@ -14,4 +14,5 @@ Design in the Digital Age
 *Continue work on...*
 
 - Individual User Interviews (*due: Tuesday, March 23*)
+  - Read: [Instructions, requirements, and suggestions](13-user-research-planning/instructions.md)
 
