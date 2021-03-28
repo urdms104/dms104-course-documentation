@@ -9,6 +9,8 @@ Design in the Digital Age
 ## Thursday, March 25, 2021
 
 - No live discussion today
+- NEW: [Checkpoint 6: Report Other Research Methods](checkpoint06-other-research-methods/instructions.md) (*Due: anytime before you start your "Other Research Methods" which need to be completed by Thursday, April 1*)
 - Continue work on...
   - Two (or more) Other Research Methods (*due: Thursday, April 1*)
   - Read: Chapters 10 and 11 to prepare for the Modeling Workshop (*due: Thursday, April 1*)
+
