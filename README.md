@@ -8,17 +8,27 @@ Design in the Digital Age
 
 ## Thursday, April 1, 2021
 
-- Live Discussion/Workshop: **Modeling Workshop** (Zoom was at 12:30 PM EDT)
-
-  - You were required to **read Chapters 10 and 11** in the book so we could "model" your data in real-time today; keep the book handy during today's workshop (you'll need it as reference)
+- Live Discussion/Workshop: [**Modeling Workshop** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89c3b6f2-8f0a-4488-aad6-acfd012d5f17)
 
   - Goal: create a set of **charts, diagrams, lists, and personas** that summarize everything learned from research
 
-  - Process:
+  - Suggestions - information and tools you might want to look into...
 
-    1. Compile our research data: 
+    - [One minute Affinity Diagramming Introduction (YouTube)](https://www.youtube.com/watch?v=8OT1bAXVj-M)
+
+    - [How to Create an Affinity Diagram (Article)](https://zacknaylor.medium.com/how-to-create-an-affinity-diagram-for-ux-research-cdc08489952d)
+  
+    - [Swim Lane Process Map (YouTube)](https://youtu.be/wQxnzLu7TqU)
+  
+    - Recommended online tool: [Google Jamboard](https://jamboard.google.com/)
+  
+      *...if you find more, good resources on the web, please share them in the #chatter channel in Slack!*
+  
+  - Process:
+  
+  1. Compile our research data: 
        - MRD &rarr; document (keep on-hand)
-       - Stakeholder meeting notes &rarr; synthesize findings into lists of *imperatives* and *experience attributes*
+     - Stakeholder meeting notes &rarr; synthesize findings into lists of *imperatives* and *experience attributes*
        - Focus group event notes &rarr; single-case analysis; "coding"
        - Individual interview notes and artifacts &rarr; single-case analysis; "coding"
        - Other sources of information and inspiration &rarr; summarize into lists if *imperatives*
@@ -26,9 +36,9 @@ Design in the Digital Age
        - Create: Activity Diagrams; Decision Trees; Swim Lane Diagrams; Process Diagrams; etc.
        - Create: Affinity Diagram
        - For Quantitative data: Create Statistical Analysis
-  3. Cross-case Analysis Continued: Personas (x3)
+    3. Cross-case Analysis Continued: Personas (x3)
        1. Divide by roles
-     2. Identify behavioral and demographic variables
+       2. Identify behavioral and demographic variables
        3. Id patterns
        4. Define goals
        5. Write narratives
