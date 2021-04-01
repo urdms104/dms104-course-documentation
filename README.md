@@ -8,7 +8,7 @@ Design in the Digital Age
 
 ## Thursday, April 1, 2021
 
-- Live Discussion/Workshop: **Modeling and Personas** ([Zoom at 12:30 PM EDT](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
+- Live Discussion/Workshop: **Modeling Workshop** ([Zoom at 12:30 PM EDT](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09))
 
   - You were required to **read Chapters 10 and 11** in the book so we could "model" your data in real-time today; keep the book handy during today's workshop (you'll need it as reference)
 
