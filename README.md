@@ -6,47 +6,21 @@ Design in the Digital Age
 - [City Team Presentations and Project Files](files.md) &larr; updated Wed., Feb. 24, 2021
 - [Shared City Team List (Google Sheet)](https://docs.google.com/spreadsheets/d/1GxZ4u8RjvG9D-S86QVpSdJM24KPr47ftF3mN67NC37I/edit#gid=0)
 
-## Thursday, April 1, 2021
+## Tuesday, April 6, 2021
 
-- Live Discussion/Workshop: [**Modeling Workshop** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89c3b6f2-8f0a-4488-aad6-acfd012d5f17)
+- Lecture: [Chapter 12 - Requirements and Context Scenarios (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4acd10a2-f8b4-486d-af61-ad01011647e6) and ([PDF](18-requirements-scenarios/chapter12.pdf))
 
-  - Goal: create a set of **charts, diagrams, lists, and personas** that summarize everything learned from research
+- Assignment:
 
-  - Suggestions - information and tools you might want to look into...
+  - **Read Chapter 12** and start working on creating a collection of **context scenarios** and a list of **requirements** with your team
 
-    - [One minute Affinity Diagramming Introduction (YouTube)](https://www.youtube.com/watch?v=8OT1bAXVj-M)
+  - Continue working with your team to create models:
 
-    - [How to Create an Affinity Diagram (Article)](https://zacknaylor.medium.com/how-to-create-an-affinity-diagram-for-ux-research-cdc08489952d)
-  
-    - [Swim Lane Process Map (YouTube)](https://youtu.be/wQxnzLu7TqU)
-  
-    - Recommended online tool: [Google Jamboard](https://jamboard.google.com/)
-  
-      *...if you find more, good resources on the web, please share them in the #chatter channel in Slack!*
-  
-  - Process:
-  
-  1. Compile our research data: 
-       - MRD &rarr; document (keep on-hand)
-     - Stakeholder meeting notes &rarr; synthesize findings into lists of *imperatives* and *experience attributes*
-       - Focus group event notes &rarr; single-case analysis; "coding"
-       - Individual interview notes and artifacts &rarr; single-case analysis; "coding"
-       - Other sources of information and inspiration &rarr; summarize into lists if *imperatives*
-    2. Single-case Analysis &rarr; Cross-case Analysis
-       - Create: Activity Diagrams; Decision Trees; Swim Lane Diagrams; Process Diagrams; etc.
-       - Create: Affinity Diagram
-       - For Quantitative data: Create Statistical Analysis
-    3. Cross-case Analysis Continued: Personas (x3)
-       1. Divide by roles
-       2. Identify behavioral and demographic variables
-       3. Id patterns
-       4. Define goals
-       5. Write narratives
-  
-- Assignment for next time:
-  - Complete modeling - from wherever we left off (you'll need everything for Project 2)
-  - Read the blue section...
-      - **Chapter 12 Defining Requirements** (p299-349 ...50 pages)
-      - **Chapter 13 Putting it All Together: User & Domain Analysis** (U&DA) (p352-375 ...23 pages)
-          - Note: Chapter 13 is in effect, the instructions for Project 2
+    - one **affinity diagram** (Chapter 10)
+    - **other charts and diagrams** (Chapter 10)
+    - **personas** x3 (Chapter 11)
+
+    ...get as much done as possible before Thursday when we'll start **Project 2: User & Domain Analysis** 
+
+  *Note: it is okay to continue working on modeling (chapters 10 and 11) and requirements (chapter 12) after Thursday, but eventually all that needs to be completed so it can be incorporated into the User & Domain Analysis (document) ...a.k.a. Project 2; we'll talk about the due date for Project 2 when we meet on Thursday, April 8*
 
