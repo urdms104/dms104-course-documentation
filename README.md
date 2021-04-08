@@ -15,7 +15,7 @@ Design in the Digital Age
   - Team: **Shenzhen** 12:30 - 12:40 PM EDT ![:arrow_left:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/2b05-fe0f.png) please be on time!
   - Team: **New York** 12:43 - 1:53 PM EDT
   - Team: **Toronto** 12:56 - 1:06 PM EDT
-  - Team **Boston** 1:09 - 1:19 PM EDT
+  - Team **Boston** <s>1:09 - 1:19 PM EDT</s> RESCHEDULED to Friday, 12:15 PM EDT
   - Team **Tokyo** 1:22 - 1:32 PM EDT
   - Team **Oslo** 1:35 - 1:45 PM EDT
 
