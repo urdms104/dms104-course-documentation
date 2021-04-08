@@ -25,6 +25,6 @@ Design in the Digital Age
 
   - Read **Chapter 13 - Putting it All Together: User & Domain Analysis** (U&DA)
     - p351-366, then skip to the end
-  - Project 2: User & Domain Analysis (coming soon)
+  - [Project 2: User & Domain Analysis](project02-uda/instructions.md) (due: Thursday, April 15)
 
   *Note: continue working on the **modeling**, **personas**, **context scenarios**, and **requirements** ...because they go into the User & Domain Analysis*
