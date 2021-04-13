@@ -8,7 +8,7 @@ Design in the Digital Age
 
 ## Tuesday, April 13, 2021
 
-- Live Discussion:  [**Tools Workshop** (Zoom at 12:30 PM EDT)](https://rochester.zoom.us/j/97162292503?pwd=WVIzaGlvRlZaYkFjMGJjd3p3d2s3UT09)  ![:surfer:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f3c4.png)
+- Live Discussion:  [**Tools Workshop** (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1edc7197-7e3b-4b59-867c-ad09011c4c2f)  ![:surfer:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f3c4.png)
 
   ALL city-teams will need to start creating renderings of their project ideas from three perspectives:
 
@@ -16,7 +16,7 @@ Design in the Digital Age
   - **Industrial** ![:arrow_left:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/2b05-fe0f.png) 3D renderings are best
   - **Interactive** ![:arrow_left:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/2b05-fe0f.png) this is the most difficult; how do you show changes of state during interaction?
 
-- Students will show examples of thier handiwork via screen share
+- Students show examples of their handiwork via screen share
 
 *Continue working on...*
 
