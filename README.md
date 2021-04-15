@@ -8,6 +8,6 @@ Design in the Digital Age
 
 ## Thursday, April 15, 2021
 
-- Lecture: [Chapter 14 - Framework Definition (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44bad5f8-8342-41d5-a550-ad0b00cfa7ad) and ([PDF](21-framework-and-design-language/framework-and-design-language-overview.pdf))
+- Lecture: [Chapter 14 - Framework Definition (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5e365947-0b84-4e22-b05b-ad0800ddb5af) and ([PDF](21-framework-and-design-language/framework-and-design-language-overview.pdf))
 - Assignment: **read Chapter 14 - Framework Definition** (p377-403)
 
