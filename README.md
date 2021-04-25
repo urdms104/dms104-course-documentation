@@ -8,6 +8,8 @@ Design in the Digital Age
 
 ## Thursday, April 22, 2021
 
+- [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 29)
+
 - **Design Vision Prep** ([Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47d426ac-3546-4d7d-b0ee-ad1201326481))
   - Short discussion about **Project 3: Design Vision**, due in a week (or so ...we'll need to talk about it)
   - Be prepared to **show your rough drafts** of any mock-ups, sketches, renderings ...anything, really! using whatever software you're trying out
