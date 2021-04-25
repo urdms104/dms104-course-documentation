@@ -66,4 +66,7 @@ This cannot be said enough: the book is a template for everything we’re doing 
 
 ## Submission in Blackboard
 
-*One team member* (typically the Team Lead) needs to turn-in the presentation file(s) in Blackboard. In our DMS 104 section, look in the Assignments area for "**Project 3: Design Language**"
+*One team member* (typically the Team Lead) needs to upload the presentation video to [Panopto (here)](https://rochester.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2249b042bd-82bb-4b9a-85f8-acec011bd1ff%22)
+
+- NOTE: just label the video with your city-team name and "Project 3" (e.g. **Rochester, Project 3**) and put it directly in that folder - not in any of the sub-folders
+- In our DMS 104 section, look in the Assignments area for "**Project 3: Design Language**" and then *one team member* (typically the Team Lead) needs to turn-in the presentation file(s) and a link to the video in Panopto into Blackboard. 
