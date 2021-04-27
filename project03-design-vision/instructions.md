@@ -45,7 +45,7 @@ NOTE: the following sections are described in detail in Chapter 19, in the book,
   - Introduce the Interaction Design Anatomy. Think of this section as wire frame interface(s) with general descriptions of each major part.
     - Remember to use *unrealistic* imagery. Wireframes, sketches, et cetera. You are writing rules for design, not the actual design itself.
 
-**Scenario Storyboards** (IxD or IxDG and IxDS)
+**Scenario Storyboards** (Interaction Designer)
   - This is, in effect, a visual and descriptive walk-through of the "play"
   - Each walk-through is referred to as a "key path" - make sure you use the correct terminology as you write-up the scenario storyboards. (Google: *storyboards* if you're unfamiliar with that term)
 
