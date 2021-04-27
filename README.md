@@ -8,6 +8,8 @@ Design in the Digital Age
 
 ## Tuesday, April 27, 2021
 
+Note: no live discussion or new lecture video to watch today.  Instead:
+
 *Continue work on...*
 
 - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 29)
