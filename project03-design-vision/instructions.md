@@ -35,20 +35,23 @@ NOTE: the following sections are described in detail in Chapter 19, in the book,
 
 **Project Summary and Expectations** (Team Lead)
   - This is where you re-introduce your product and what it will do.
-  - Here you can bring up ongoing concerns and issues (if any) that impact the design.
-**Key Personas and Requirements** (Team Lead)
+  - Here you can bring up ongoing concerns and issues (if any) that impact the design.**Key Personas and Requirements** (Team Lead)
   - This is a short re-statement of the personas and requirements you created from the U&DA
   - Do *not* just copy and paste all your personas and requirements from the U&DA; include only things from the U&DA that strongly influenced the Design Vision.
+
 **Big Ideas and Major Anatomy**, a.k.a. the *Interaction Framework* (Interaction Designer)
   - Focus on the interaction framework chosen (typical choices were listed in Chapter 15) and why.
   - List data objects and functional needs (remember: nouns and verbs) and highlight where they come into play in the framework. This comes mostly from the U&DA but the Interactive Designer(s) need to tie it together with their framework choices.
   - Introduce the Interaction Design Anatomy. Think of this section as wire frame interface(s) with general descriptions of each major part.
     - Remember to use *unrealistic* imagery. Wireframes, sketches, et cetera. You are writing rules for design, not the actual design itself.
+
 **Scenario Storyboards** (IxD or IxDG and IxDS)
   - This is, in effect, a visual and descriptive walk-through of the "play"
   - Each walk-through is referred to as a "key path" - make sure you use the correct terminology as you write-up the scenario storyboards. (Google: *storyboards* if you're unfamiliar with that term)
+
 **How the Design Serves Persona Needs** (VisD)
   - Make sure you tie the key paths back to each persona need. Be specific, referring to the exact language used in the U&DA as much as possible.
+
 **Design Language(s)** (VisD and ID)
   - Introduce the Form Factor design requirements. (This would come from the **Industrial Designer**.)
   - This section lists the design choices for the interface and physical component(s) as defined by the both the **Visual Designer** and **Industrial Designer**. (Remember the example documents from *First Niagara Bank*.)
